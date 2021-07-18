@@ -1,0 +1,14 @@
+BODY 1
+
+Colour this file the same as you colour your main body.dds file.
+
+Wing_PNG
+
+this is the template for the rear wing, save as winguv.png
+
+Driver Number
+
+Edit this file and save in your skin folder to display your driver number on the front windscreen
+
+Name Tag
+Edit this file and save in your skin folder to display your name on the rear window.
